@@ -4,3 +4,11 @@ gen
 .svn
 .DS_Store
 *.tmproj
+/target
+/.settings
+.classpath
+.project
+build*
+default.properties
+Shelves.impl
+shelves.ipr
