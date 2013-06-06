@@ -29,7 +29,7 @@
         android:listSelector="@android:color/transparent"
 
         android:numColumns="auto_fit"
-        android:columnWidth="160px"
+        android:columnWidth="260px"
 
         shelves:shelfBackground="@drawable/shelf_panel" />
 
